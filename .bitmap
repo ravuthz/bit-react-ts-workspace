@@ -9,5 +9,11 @@
  */
 
 {
+    "layouts/admin-layout": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "react-antd-ts/layouts/admin-layout"
+    },
     "$schema-version": "14.9.0"
 }
